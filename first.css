@@ -1,0 +1,20 @@
+*{
+	box-sizing: border-box;
+	
+}
+
+
+img{
+	height:1000px;
+	width:800px;
+	padding:30px;
+	margin:30px;
+	display:flex;
+	justify-content:center;
+	
+	
+}
+
+@keyframes shoe{
+	50%{transform: rotateY(360deg);}
+}
